@@ -115,3 +115,26 @@ nav>ul>li:nth-child(3) ul {
     vertical-align: 20%;
     margin-left: 5px;
 }
+
+footer {
+    background-color: #120b5c;
+    font-family: Tahoma;
+    color: white;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 1212px;
+    height: 85px;
+    padding-top: 20px;
+    padding-left: 900px;
+    font-size: 0.9em;
+}
+
+#buttons>div {
+    border: 2px solid #FF9C00;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 38px;
+    width: 50%;
+    height: 40px;
+    line-height: 40px;
+}
